@@ -1,8 +1,11 @@
 import React from 'react'
+import AddTechnician from '../../Components/Forms/addTechnician/addTechnician'
 
 const addTechnician = () => {
   return (
-    <div>addTechnician</div>
+    <>
+      <AddTechnician />
+    </>
   )
 }
 
